@@ -7,14 +7,14 @@ Passionate about software development, problem-solving, learning and building us
 I'm currently focused on strengthening my programming fundamentals and developing real-world projects as I work towards becoming a Full-Stack Software Engineer.
 
 🚀Currently learning 
-# ☕Java
-# 🟨JavaScript 
-# 🐍 Python 
-# 🌐HTML & CSS
-# 🦋Tailwind CSS
-# 🟢Node.js & Express
-# 🗄️MySQL
-# 🔧Git & Github
+ ☕Java
+🟨JavaScript 
+🐍 Python 
+🌐HTML & CSS
+🦋Tailwind CSS
+🟢Node.js & Express
+🗄️MySQL
+ 🔧Git & Github
 
 # 🚀Tech stack
 
@@ -36,23 +36,23 @@ Git . GitHub . Vs Code
 
 ## Current Goals
 
-# Perform strongly in my Computer Science degree at UTG.
-# Become a strong Full-Stack software engineer.
-# Build practical software that solve real-world problems.
-# Contribute to the technology ecosystem in The Gambia.
-# Continuously improve my programming and problem-solving skills.
+Perform strongly in my Computer Science degree at UTG.
+Become a strong Full-Stack software engineer.
+Build practical software that solve real-world problems.
+Contribute to the technology ecosystem in The Gambia.
+Continuously improve my programming and problem-solving skills.
 
-## 🔥Feature projects 
+# 🔥Feature projects 
 
 coming soon...
 
-## Connect with me:
+Connect with me:
 
 🌍portfolio: https://modoulamin-dev.github.io/my-portfolio-website/
 💼LinkedIn: https://www.linkedin.com/in/modou-lamin-o-cham2026/
 
-## 📍Sukuta, The Gambia.
+📍Sukuta, The Gambia.
 
-#🔥 "Learn . Build . Improve . Repeat."
+🔥 "Learn . Build . Improve . Repeat."
 
-# 🫶Thanks for visiting my profile
+🫶Thanks for visiting my profile
